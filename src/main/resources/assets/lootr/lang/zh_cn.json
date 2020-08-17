@@ -1,0 +1,5 @@
+{
+  "lootr.message.should_sneak": "破坏箱子将会永久删去箱子内的战利品！如果你真的想要破坏箱子，你得在破坏时保持潜行状态...",
+  "lootr.message.should_sneak2": "箱子内的战利品是 %s ，只有在必要的时候才需要破坏掉它。",
+  "lootr.message.should_sneak3": "各玩家相互独立的"
+}
